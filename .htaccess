@@ -1,4 +1,4 @@
 RewriteEngine On
 Options +FollowSymLinks
 
-RewriteRule ^([0-9a-zA-Z-]+)/?/?$ /index.php?page=$1
+RewriteRule ^([0-9a-zA-Z-]+)/?/?$ /CashierApplication/index.php?page=$1
